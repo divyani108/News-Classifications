@@ -20,26 +20,6 @@ This project aims to build a model that classifies whether a given news article 
   - Random Forest
   - Gradient Boosting
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/news-authenticity-classifier.git
-   ```
-
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Download the `Fake.csv` and `True.csv` datasets and place them in the `data/` directory.
-
-4. Run the application:
-   ```
-   python main.py
-   ```
 
 ## Usage
 
@@ -64,8 +44,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Usage
 
-You can look for detailed explanation with graphs at - news.ipynb
-You can also run the python file using -  python3 news.py
+You can look for detailed explanation with graphs at - News Classifications(2).ipynb
+You can also run the python file using -  python3 News Classifications(2).py
 
 ## Contact
 
